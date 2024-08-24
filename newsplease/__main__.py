@@ -57,7 +57,7 @@ class NewsPleaseLauncher(object):
     elasticsearch = None
     redis = None
     number_of_active_crawlers = 0
-    config_directory_default_path = "~/news-please-repo/config/"
+    config_directory_default_path = "~/Desktop/Projects/news-please/newsplease/config/"
     config_file_default_name = "config.cfg"
     library_mode = None
 
